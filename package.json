@@ -19,5 +19,8 @@
   "homepage": "https://github.com/utku-guclu/web-crawler-http#readme",
   "devDependencies": {
     "jest": "^29.4.2"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.0"
   }
 }
